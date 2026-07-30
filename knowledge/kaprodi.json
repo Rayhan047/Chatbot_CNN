@@ -1,0 +1,23 @@
+{
+    "kaprodi": {
+        "title": "👨‍🏫 Informasi Ketua Program Studi (Kaprodi)",
+        "answer": [
+            "Ketua Program Studi (Kaprodi) adalah dosen yang bertanggung jawab memimpin dan mengelola suatu program studi di lingkungan Fakultas Ilmu Komputer dan Teknologi Informasi (FIKTI) UMSU. \nProgram Studi Sistem Informasi FIKTI UMSU memiliki pimpinan program studi yang terdiri dari Ketua Program Studi (Kaprodi) dan Sekretaris Program Studi (Sekprodi) di masing-masing Program Studi. \nKetua Program Studi (Kaprodi) memiliki tugas mengkoordinasikan pelaksanaan kegiatan akademik, mengembangkan kurikulum, memastikan mutu pendidikan, serta membina dosen dan mahasiswa agar proses pembelajaran berjalan dengan baik. \n\nSilakan pilih program studi yang ingin Anda ketahui untuk melihat informasi Kaprodi dan Sekprodi nya masing-masing."
+        ],
+        
+        "button": [
+            {
+                "text": "💻 Sistem Informasi",
+                "action": "kaprodi_si"
+            },
+            {
+                "text": "🌐 Teknologi Informasi",
+                "action": "kaprodi_ti"
+            },
+            {
+                "text": "📊 Sains Data",
+                "action": "kaprodi_sd"
+            }
+        ]
+    }
+}

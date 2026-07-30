@@ -1,0 +1,17 @@
+{
+    "dekan": {
+
+        "title": "Informasi Dekan",
+
+        "answer": [
+            "Dekan Fakultas Ilmu Komputer dan Teknologi Informasi (FIKTI) UMSU saat ini adalah Assoc. Prof. Dr. Al-Khowarizmi, S.Kom., M.Kom. \nBeliau merupakan pimpinan tertinggi di tingkat fakultas yang bertanggung jawab dalam memimpin, mengembangkan, dan mengelola kegiatan akademik, penelitian, pengabdian kepada masyarakat, serta pengembangan teknologi informasi di lingkungan FIKTI UMSU. Dalam menjalankan tugasnya, Dekan dibantu oleh para Wakil Dekan yang memiliki tugas dan tanggung jawab sesuai bidang masing-masing.\n\nWakil Dekan FIKTI UMSU terdiri dari: \nWakil Dekan I\nBertanggung jawab dalam bidang akademik, perencanaan pembelajaran, pengembangan kurikulum, serta peningkatan mutu pendidikan di lingkungan FIKTI UMSU. \nWakil Dekan III\nBertanggung jawab dalam bidang kemahasiswaan, pengembangan organisasi mahasiswa, kegiatan mahasiswa, serta hubungan dengan alumni. \n\nKerja sama antara Dekan dan Wakil Dekan bertujuan untuk meningkatkan kualitas pendidikan, pelayanan akademik, serta menciptakan lingkungan fakultas yang mendukung perkembangan mahasiswa dan civitas akademika. \n\nDekan: Assoc. Prof. Dr. Al-Khowarizmi, S.Kom., M.Kom.\n\n Wakil Dekan I: Dr. Firahmi Rizky, S.Kom.,M.Kom\n\n Wakil Dekan III: Mhd. Basri, S.Si, M.Kom. \n\nUntuk informasi lebih lengkap mengenai profil pimpinan, struktur organisasi, dan informasi terbaru FIKTI UMSU, silakan kunjungi website resmi melalui tombol di bawah ini."
+        ],
+        
+        "button": [
+            {
+                "text": "Website Pimpinan Fakultas",
+                "url": "https://fikti.umsu.ac.id/pimpinan-fakultas/"
+            }
+        ]
+    }
+}

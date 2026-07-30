@@ -1,0 +1,66 @@
+{
+    "sapaan": {
+        "title": "👋 Halo",
+        "answer": [
+            "Halo 👋 Saya Nova, asisten virtual FIKTI UMSU.",
+            "Hai 😊 Ada yang bisa saya bantu?",
+            "Selamat datang di Chatbot FIKTI UMSU."
+        ]
+    },
+
+    "dekan": {
+        "title": "👤 Dekan FIKTI UMSU",
+        "answer": [
+            "Dekan FIKTI UMSU saat ini adalah Dr. XXXXXXX, M.Kom."
+        ],
+
+        "button": {
+            "text": "🌐 Lihat Profil Dekan",
+            "url": "https://fikti.umsu.ac.id"
+        }
+    },
+
+    "kaprodi": {
+        "title": "🎓 Kaprodi",
+
+        "answer": [
+            "Kaprodi Sistem Informasi adalah ...."
+        ],
+
+        "button": {
+            "text": "🌐 Website Program Studi",
+            "url": "https://fikti.umsu.ac.id"
+        }
+    },
+
+   
+    "dosen": {
+        "title": "👨‍🏫 Informasi Dosen",
+
+        "answer": [
+            "Informasi dosen dapat dilihat melalui website resmi FIKTI UMSU.",
+            "Silakan membuka daftar dosen pada website FIKTI UMSU.",
+            "Data dosen tersedia pada halaman akademik FIKTI UMSU."
+        ],
+
+        "button": {
+            "text": "🌐 Lihat Daftar Dosen",
+            "url": "https://fikti.umsu.ac.id/daftar-dosen/"
+        }
+    },
+
+    "unknown": {
+        "title": "❓",
+
+        "answer": [
+            "Maaf nova belum memahami pertanyaan tersebut."
+        ]
+    },
+
+    "UKT": {
+        "title": "...",
+        "answer": [
+            "..."
+        ]
+    }
+}

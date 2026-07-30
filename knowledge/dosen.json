@@ -1,0 +1,17 @@
+{
+    "dosen": {
+        "title": "👨‍🏫 Informasi Dosen",
+
+        "answer": [
+            "Informasi dosen dapat dilihat melalui website resmi FIKTI UMSU. \n\nSilakan membuka daftar dosen pada website FIKTI UMSU."
+        ],
+
+        "button": [
+            {
+                "text": "🌐 Lihat Daftar Dosen",
+                "url": "https://fikti.umsu.ac.id/daftar-dosen/"
+            }
+        ]
+    }
+
+}

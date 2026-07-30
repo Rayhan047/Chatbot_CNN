@@ -1,0 +1,15 @@
+{
+  "cara_bayar_ukt": {
+    "title": "Cara Pembayaran UKT",
+    "answer": [
+      "Pembayaran UKT dapat dilakukan melalui offline dan online. \nPembayaran offline dapat dilakukan melalui Biro Administrasi Keuangan (BAK) UMSU, sedangkan pembayaran online dapat dilakukan melalui transfer bank ke rekening resmi UMSU, melalui ATM atau mobile banking dengan cara memberikan virtual account mahasiswa tersebut. \n\nPastikan untuk menyimpan bukti pembayaran sebagai referensi. \n\nPembayaran UKT dapat dilakukan dengan cara langsung melunasi UKT dalam setahun, dan akan mendapatkan potongan jika langsung membayar lunas UKT setahun. \nPembayaran UKT juga dapat dilakukan dengan cara di cicil selama 4 tahap. \n\nUntuk informasi lebih lanjut mengenai prosedur pembayaran UKT, \nsilakan kunjungi website resmi PORTAL UMSU melalui tombol di bawah ini."
+    ],
+
+    "button": [
+      {
+        "text": "Website Portal UMSU",
+        "url": "https://mahasiswa.umsu.ac.id/Account/Login"
+      }
+    ]
+  }
+}

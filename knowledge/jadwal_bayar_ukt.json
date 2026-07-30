@@ -1,0 +1,18 @@
+{
+  "jadwal_bayar_ukt": {
+
+    "title": "Jadwal Pembayaran UKT",
+    
+    "answer": [ 
+      "Pembayaran UKT dilaksanakan sesuai jadwal yang telah ditetapkan oleh Universitas Muhammadiyah Sumatera Utara (UMSU) pada setiap semester. \n\nUntuk mengetahui jadwal, batas waktu pembayaran, besaran UKT, atau informasi terkait lainnya, silakan melihat pengumuman resmi pada kalender akademik universitas atau menghubungi bagian akademik dan keuangan fakultas."
+    ],    
+
+    "button": [
+      {
+        "text": "Website Portal UMSU",
+        "url": "https://mahasiswa.umsu.ac.id/Account/Login"
+      }
+    ]
+  }
+}
+

@@ -1,0 +1,20 @@
+{
+    "ukt": {
+        "title": "Informasi Uang Kuliah Tunggal (UKT)",
+        "answer": [
+                "Informasi apa yang ingin kamu ketahui mengenai UKT?. \n\nSilahkan pilih salah satu topik yang tersedia di bawah ini."
+        ],
+
+        "button": [
+            {
+                "text": "Cara Pembayaran UKT",
+                "action": "cara_bayar_ukt"
+            },
+            {
+                "text": "Jadwal Pembayaran UKT",
+                "action": "jadwal_bayar_ukt"
+            }
+            
+        ]
+    }
+}
