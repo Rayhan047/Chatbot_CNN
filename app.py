@@ -499,8 +499,31 @@ with st.sidebar:
 
     if st.session_state.sidebar_mode == "home":
 
-        st.markdown("## 🤖 Nova AI")
-        st.caption("Asisten Virtual FIKTI UMSU")
+        st.markdown(
+            """
+            <div style="text-align:center;">
+                <div style="font-size:55px;">🤖</div>
+                <div style="font-size:25px; font-weight:bold;">Nova AI</div>
+            </div>
+            """,
+            unsafe_allow_html=True
+        )
+
+        st.markdown(
+            '''
+            <div style="
+                text-align:center;
+                color:#9CA3AF;
+                font-size:0.9rem;
+                line-height:1.2;
+            ">
+                Asisten Virtual<br>
+                FIKTI UMSU
+            </div>
+            ''',
+            unsafe_allow_html=True
+        )
+
         st.divider()
 
         col1, col2, col3 = st.columns([1, 6, 1])
@@ -523,7 +546,16 @@ with st.sidebar:
                 st.rerun()
 
         st.divider()
-        st.markdown("### Informasi")
+        st.markdown(
+            """
+            <h1 style="text-align:center; font-size:20px;">
+                Informasi
+            </h1>
+            """,
+            unsafe_allow_html=True
+        )
+        st.markdown("<br>", unsafe_allow_html=True)
+
         st.write("**Model**")
         st.caption("CNN + Word2Vec")
         st.write("**Versi**")
