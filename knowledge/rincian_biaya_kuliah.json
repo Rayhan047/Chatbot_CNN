@@ -1,0 +1,22 @@
+{
+  "rincian_biaya_kuliah": {
+
+    "title": "Rincian Biaya Kuliah",
+    
+    "answer": [ 
+        "Rincian biaya kuliah di Fakultas Ilmu Komputer dan Teknologi Informasi (FIKTI) Universitas Muhammadiyah Sumatera Utara (UMSU) mencakup beberapa komponen biaya yang perlu diperhatikan oleh mahasiswa selama menjalani perkuliahan. Komponen biaya tersebut dapat meliputi biaya pendidikan atau uang kuliah, biaya pengembangan pendidikan, serta biaya lain yang ditetapkan oleh universitas sesuai dengan ketentuan yang berlaku. \n\nBesaran biaya kuliah dapat berbeda berdasarkan program studi, jenjang pendidikan, semester, dan ketentuan akademik yang berlaku. Oleh karena itu, mahasiswa maupun calon mahasiswa disarankan memperhatikan rincian biaya sesuai dengan program studi yang dipilih agar dapat mengetahui jumlah pembayaran yang harus dipersiapkan. Untuk informasi mengenai nominal biaya kuliah secara lengkap dan terbaru, rincian biaya perlu disesuaikan dengan ketentuan resmi UMSU pada tahun akademik yang sedang berjalan."
+  ],    
+
+    "button": [
+      {
+        "text": "Website Rincian Biaya Kuliah",
+        "url": "https://daftar.umsu.ac.id/index.php/studycost"
+      },
+      {
+        "text": "Website Portal UMSU",
+        "url": "https://mahasiswa.umsu.ac.id/Account/Login"
+      }
+    ]
+  }
+}
+

@@ -1,0 +1,20 @@
+{
+  "cara_pembayaran": {
+    "title": "Cara Pembayaran Kuliah",
+    "answer": [
+        "Pembayaran biaya kuliah mahasiswa FIKTI UMSU dilakukan sesuai dengan ketentuan dan prosedur pembayaran yang ditetapkan oleh Universitas Muhammadiyah Sumatera Utara (UMSU). Mahasiswa perlu memastikan jumlah tagihan yang harus dibayarkan, kemudian melakukan pembayaran melalui metode atau kanal pembayaran yang telah disediakan oleh universitas. Setelah pembayaran dilakukan, mahasiswa sebaiknya memastikan bahwa transaksi berhasil dan menyimpan bukti pembayaran sebagai arsip apabila sewaktu-waktu diperlukan untuk keperluan administrasi akademik. \n\nInformasi mengenai jadwal pembayaran, jumlah tagihan, batas waktu pembayaran, serta metode pembayaran yang tersedia dapat berbeda sesuai dengan tahun akademik dan ketentuan universitas. Karena itu, mahasiswa disarankan selalu mengikuti informasi pembayaran resmi dari UMSU agar pembayaran dilakukan melalui prosedur yang benar dan sesuai dengan jadwal yang telah ditentukan."
+
+    ],
+
+    "button": [
+      {
+        "text": "Website Cara Pembayaran",
+        "url": "https://daftar.umsu.ac.id/index.php/information/paymentmethod"
+      },
+      {
+        "text": "Website Portal UMSU",
+        "url": "https://mahasiswa.umsu.ac.id/Account/Login"
+      }
+    ]
+  }
+}

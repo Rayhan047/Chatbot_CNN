@@ -1,18 +1,22 @@
 {
     "ukt": {
-        "title": "Informasi Uang Kuliah Tunggal (UKT)",
+        "title": "Informasi Biaya Kuliah",
         "answer": [
-                "Informasi apa yang ingin kamu ketahui mengenai UKT?. \n\nSilahkan pilih salah satu topik yang tersedia di bawah ini."
+                "Informasi apa yang ingin kamu ketahui mengenai Biaya Kuliah?. \n\nSilahkan pilih salah satu topik yang tersedia di bawah ini."
         ],
 
         "button": [
             {
                 "text": "Cara Pembayaran UKT",
-                "action": "cara_bayar_ukt"
+                "action": "cara_pembayaran"
             },
             {
                 "text": "Jadwal Pembayaran UKT",
-                "action": "jadwal_bayar_ukt"
+                "action": "rincian_biaya_kuliah"
+            },
+            {
+                "text": "Website Biaya Kuliah",
+                "url": "https://daftar.umsu.ac.id/index.php?r=site%2Fbiayakuliah"
             }
             
         ]

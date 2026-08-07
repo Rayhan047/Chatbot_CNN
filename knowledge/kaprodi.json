@@ -17,6 +17,10 @@
             {
                 "text": "📊 Sains Data",
                 "action": "kaprodi_sd"
+            },
+            {
+                "text": "Website Pimpinan Fakultas",
+                "url": "https://fikti.umsu.ac.id/pimpinan-fakultas/"
             }
         ]
     }

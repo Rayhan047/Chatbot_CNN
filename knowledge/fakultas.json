@@ -1,0 +1,27 @@
+{
+    "fakultas": {
+        "title": "Informasi Fakultas FIKTI",
+        "answer": [
+                "Fakultas Ilmu Komputer dan Teknologi Informasi (FIKTI) Universitas Muhammadiyah Sumatera Utara (UMSU) merupakan fakultas yang berfokus pada pengembangan pendidikan, penelitian, dan pengabdian kepada masyarakat dalam bidang ilmu komputer dan teknologi informasi. FIKTI UMSU hadir untuk mempersiapkan sumber daya manusia yang memiliki kompetensi dalam menghadapi perkembangan teknologi yang semakin pesat, sekaligus memiliki landasan nilai Al-Islam dan Kemuhammadiyahan. \n\nDalam penyelenggaraan pendidikannya, FIKTI memiliki tiga program studi jenjang Sarjana (S1), yaitu Sistem Informasi, Teknologi Informasi, dan Sains Data. \nDalam mendukung proses pendidikan, FIKTI UMSU juga mengembangkan bidang kepakaran seperti Artificial Intelligence, Data Science dan Analytics, Cyber Security, Software Engineering, E-Business, serta Internet of Things (IoT). \n\nFIKTI memiliki visi untuk menjadi fakultas yang unggul di bidang ilmu komputer dan teknologi informasi dalam membangun peradaban bangsa dan sumber daya manusia berdasarkan Al-Islam dan Kemuhammadiyahan, yang diwujudkan melalui pelaksanaan pendidikan, penelitian, pengabdian kepada masyarakat, pengembangan sumber daya manusia, serta kerja sama dengan berbagai instansi, perusahaan di bidang teknologi informasi, dan perguruan tinggi di dalam maupun luar negeri. FIKTI juga memiliki berbagai fasilitas dan kegiatan akademik yang mendukung mahasiswa dalam mengembangkan kemampuan dan pengalaman mereka, termasuk kegiatan organisasi mahasiswa, laboratorium komputer, kegiatan penelitian, serta berbagai aktivitas yang berkaitan dengan perkembangan teknologi. Dengan demikian, FIKTI UMSU menjadi lingkungan akademik yang memberikan kesempatan kepada mahasiswa untuk mempelajari ilmu komputer dan teknologi informasi secara lebih mendalam sesuai bidang yang diminati, sekaligus mempersiapkan mereka agar mampu beradaptasi dengan kebutuhan dunia kerja, perkembangan industri teknologi, dan tantangan transformasi digital."
+            ],
+        
+        "button": [
+            {
+                "text": "💻 Sistem Informasi",
+                "action": "prodi_si"
+            },
+            {
+                "text": "🌐 Teknologi Informasi",
+                "action": "prodi_ti"
+            },
+            {
+                "text": "📊 Sains Data",
+                "action": "prodi_sd"
+            },
+            {
+                "text": "Website Informasi FIKTI",
+                "url": "https://fikti.umsu.ac.id/"
+            }
+        ]
+    }
+}
